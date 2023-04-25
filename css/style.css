@@ -1,0 +1,35 @@
+.text-decoration-none{
+color: rgb(0, 0, 0);
+}
+
+.text-decoration-none:hover{
+color: rgb(44, 30, 230);
+}
+body{
+    background-color: #15142b;
+        background-image: linear-gradient(180deg, #372991, #15142b);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-attachment: fixed;
+}
+
+h1{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+#edit{
+    margin-left: 20px;
+}
+
+form p{
+    color: white;
+}
+
+.container img{
+    margin: 20px 0;
+}
